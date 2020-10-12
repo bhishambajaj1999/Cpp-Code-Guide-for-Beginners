@@ -1,6 +1,6 @@
 # Cpp Code Guide for Beginners
 
-Note : I'll be using VS Code for writing Cpp codes on my machine
+Note : I'll be using VS Code for writing Cpp codes on my machine. (Java can be used too)
 
 ### Starting with the installation 
 
